@@ -9,4 +9,4 @@
 
 **Основные технологии**  
 - Python, Flask, SQLAlchemy, Streamlit
-- Numpy, Pandas, Scikit, Transformers
+- Pandas, Scikit, Transformers
